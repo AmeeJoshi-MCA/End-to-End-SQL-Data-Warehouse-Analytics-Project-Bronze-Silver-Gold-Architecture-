@@ -1,0 +1,2 @@
+# End-to-End-SQL-Data-Warehouse-Analytics-Project-Bronze-Silver-Gold-Architecture-
+End-to-end SQL Data Warehouse project implementing Medallion Architecture and Star Schema. Engineered automated ETL pipelines for data integration. Beyond engineering, I performed advanced SQL analysis using CTEs &amp; Window Functions to uncover key business insights. Demonstrates mastery in data modeling, SQL Server, and analytical problem-solving.
