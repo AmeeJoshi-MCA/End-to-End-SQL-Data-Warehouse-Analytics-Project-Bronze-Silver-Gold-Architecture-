@@ -21,6 +21,10 @@ The goal was to solve the common business problem of "Data Silos" by integrating
 ---
 
 ## 🏗 Data Architecture & Pipeline
+
+<img width="772" height="456" alt="data_architecture" src="https://github.com/user-attachments/assets/00447883-9ad2-4941-895f-e437d23cd344" />
+
+
 I implemented a Separation of Concerns (SoC) approach to ensure scalability and data traceability:
 
 **1 Bronze Layer (Raw):**
@@ -39,6 +43,8 @@ I implemented a Separation of Concerns (SoC) approach to ensure scalability and 
    * Role: Business-ready tables optimized for reporting.
 
    * Process: Implemented a Star Schema with Fact and Dimension tables, enabling lightning-fast queries for reporting tools.
+
+
 
 ----
 
